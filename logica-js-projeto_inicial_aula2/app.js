@@ -50,3 +50,8 @@ let nomeUsuario = prompt ('Informe o seu nome completo:');
 alert (`Boas vindas, ${nomeUsuario}`);
 
 
+//6.Peça ao usuário para inserir seu nome usando prompt. Em seguida, mostre um alerta de boas-vindas usando esse nome.
+alert ('Sistema da biblioteca pública:');
+let nomeUsuario1 = prompt ('Informe o seu nome completo:');
+alert (`Boas vindas, ${nomeUsuario1}`);
+
